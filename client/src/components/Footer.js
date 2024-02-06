@@ -9,9 +9,8 @@ const Footer = () => {
         <div className='w-3/4 sm:gap-0 gap-4 flex flex-col sm:flex-row items-between sm:justify-between pb-4'>
             <div className='flex flex-col items-center sm:items-start gap-2'>
                 <img src="/images/logo.png" className="h-36"/>
-                <h3 className='px-12 text-2xl font-semibold'>Connecticut</h3>
-                <p className='px-12'>Addreswafwafawfwafws</p>
-                <p className='px-12'>929-866-9064</p>
+                <h3 className='px-12 text-2xl font-semibold'>Danbury, Connecticut</h3>
+                <p className='px-12 text-xl font-medium'>929-866-9064</p>
             </div>
    
 
