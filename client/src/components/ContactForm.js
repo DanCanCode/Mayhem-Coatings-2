@@ -125,7 +125,7 @@ const ContactForm = () => {
                 type="text"
                 name="phone"
                 id="phone"
-                placeholder="+1 (555) 1234-567"
+                placeholder="+1 (555) 123-4567"
                 required
                 className="w-full px-3 py-2 placeholder-black/30 border border-black/20 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-300"
               />
